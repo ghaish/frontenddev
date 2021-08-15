@@ -1,0 +1,163 @@
+body{
+    background-image: linear-gradient( rgba(235, 241, 252, 0.849), rgba(193, 209, 219, 0.788) ),url("G:\\Ud\\web development\\webdevelopment\\front end challenges\\order-summary-component-main\\images\\pattern-background-desktop.svg") ;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+    margin:75px auto  75px auto;
+    font-family: 'Red Hat Display', sans-serif;
+   
+    
+}
+.top-container{
+    
+   width: 400px;
+   height: 200px;
+   background-image: url("G:\\Ud\\web development\\webdevelopment\\front end challenges\\order-summary-component-main\\images\\illustration-hero.svg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   
+   
+}
+.bottom-container{
+    margin-top:35px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.container{  
+    overflow:hidden ;
+    width: 400px;
+    height:600px;
+    margin:  auto;
+    border-radius: 15px;
+    
+    -webkit-box-shadow: -2px 14px 20px 0 #D8CEF1;
+    -moz-box-shadow: -2px 14px 20px 0 #D8CEF1;
+    box-shadow: 0px 5px 12px 0 #c3c5c5;
+    background-color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    
+    
+    
+}
+h1{
+    font-size: 1.5rem;
+    margin-top: 0px; 
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    font-weight: 600;
+    font-family: 'Red Hat Display', sans-serif;
+}
+h3{
+    
+    font-size: 0.900rem;
+}
+p{  
+    color: rgb(125, 126, 126);
+    font-size:1rem;
+    text-align:center;
+    width:80%;
+    margin:18px auto auto auto;
+    line-height: 1.5em;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.inner{
+    width:80%;
+    height: 75px;
+    margin:20px auto 30px auto;
+    background-color: rgb(249, 249, 249);
+    border-radius: 7px;
+    
+}
+.propay {
+    
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+   
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: 'Red Hat Display', sans-serif;
+    width: 446px;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 40px;
+    background-color: #1B08D2;
+    -webkit-box-shadow: -2px 14px 20px 0 #D8CEF1;
+    -moz-box-shadow: -2px 14px 20px 0 #D8CEF1;
+    box-shadow: -2px 14px 20px 0 #D8CEF1;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .propay:hover {
+     width:200px;
+    background: #7757CF;
+    border: solid #337FED 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
+
+.music{
+    display:inline-block;
+    width:30px;
+    margin-top: auto;
+    margin-right: 10px;
+    margin-bottom: auto;
+    margin-left: 17px;
+    
+}
+.changelink{
+    color: hsl(245, 75%, 52%);
+    font-size: .800rem;
+    margin-top: auto;
+    margin-right: 20px;
+    margin-bottom: auto;
+    margin-left: 105px;
+}
+.changelink:hover{
+    text-decoration: none;
+    color: #7757CF;
+}
+ .cancelpay {
+     
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    height: 0;
+    line-height: 0;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: 'Red Hat Display', sans-serif;
+    width: 287px;
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 0;
+    font-weight: 30px;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin:30px auto auto 50px;
+ }
+ 
+ 
+ .cancelpay:hover {
+    background: #FFFFFF;
+    border: solid #FFFFFF 1px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+ }
+ .attribution{
+     display: none;
+ }
