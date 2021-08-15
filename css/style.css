@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient( rgba(235, 241, 252, 0.849), rgba(193, 209, 219, 0.788) ),url("G:\\Ud\\web development\\webdevelopment\\front end challenges\\order-summary-component-main\\images\\pattern-background-desktop.svg") ;
+    background-image: linear-gradient( rgba(235, 241, 252, 0.849), rgba(193, 209, 219, 0.788) ),url("../images/pattern-background-desktop.svg") ; 
     width: 100%;
     height: 100%;
     background-size: contain;
@@ -14,7 +14,7 @@ body{
     
    width: 400px;
    height: 200px;
-   background-image: url("G:\\Ud\\web development\\webdevelopment\\front end challenges\\order-summary-component-main\\images\\illustration-hero.svg");
+   background-image: url("../images/illustration-hero.svg"); 
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
