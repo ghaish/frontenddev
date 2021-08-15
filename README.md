@@ -6,7 +6,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview]
 - [The challenge]
-- [Links]
 - [Built with]
 - [Useful resources]
 - [Author](#author)
@@ -21,10 +20,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 
-## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
 ## Built with
@@ -37,7 +33,7 @@ Users should be able to:
 
 ## Useful resources
 
-- [css Button Creator](https://cssbuttoncreator.com/) - This helped me for creating  styled buttons. I really liked this pattern and will use it going forward.
+- [css Button Creator](https://cssbuttoncreator.com/) - This helped me for creating  styling buttons. I really liked this pattern and will use it going forward.
 
 
 
